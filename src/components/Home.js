@@ -1,11 +1,12 @@
 import styled from 'styled-components';
+import ImgSlider from './ImgSlider';
 
 export default function Home() {
 
   return (
     <Container>
-      {/* <ImgSlider />
-      <Viewers />
+      <ImgSlider />
+      {/* <Viewers />
       <Recommends />
       <NewDisney />
       <Originals />
@@ -31,3 +32,23 @@ const Container = styled.main`
     z-index: -1;
   }
 `;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
