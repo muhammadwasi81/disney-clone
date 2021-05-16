@@ -4,11 +4,11 @@
 
 
 # Step # 1
-# clone the repository using above code link
+<p>clone the repository using above code link<p>
 
 # Step 2
-## After install the project open the projet && run npm install
+<p>After install the project open the projet && run npm install</p>
 
 # Step 3
-## npm start
+<p>npm start</p>
 
