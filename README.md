@@ -7,7 +7,7 @@
 <p>clone the repository using above code link<p>
 
 # Step 2
-<p>After install the project open the projet && run npm install</p>
+<p>After install the project open the project && run npm install</p>
 
 # Step 3
 <p>npm start</p>
